@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4581
+
+vim plugin, one way to improve move using "w W b B",
+smartly move between language identifier, skip language keywords,comment,strings
+
+default key mapping:
+	<C-n>	next language identifier
+	<C-p>	previous language identifier
+
+current support language:
+	c, c++, vim, python
+
+https://github.com/rargo/vim-identifier-movement
